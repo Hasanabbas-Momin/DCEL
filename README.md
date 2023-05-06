@@ -13,3 +13,7 @@ This will be printed after every split.<br>
 
 Face to which input points belongs to:<br>
 {Id FaceIndex}
+
+## Commands to run
+$ make assignment3<br>
+$./assignment3 input_filename split_filename output_filenam
